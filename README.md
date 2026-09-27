@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codewithprincebansal/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/codewithprincebansal/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
